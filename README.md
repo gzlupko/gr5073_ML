@@ -1,1 +1,1 @@
-# gr5073_ML
+# GR 5073 Machine Learning in the Social Sciences 
